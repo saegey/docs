@@ -35,13 +35,8 @@
       "pages": ["concept", "quickstart"]
     },
     {
-      "group": "Essentials",
+      "group": "Editor",
       "pages": ["essentials/video", "essentials/images", "essentials/settings"]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  ]
 }
