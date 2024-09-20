@@ -32,7 +32,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["concept", "export"]
+      "pages": ["concept", "export", "import"]
     },
     {
       "group": "Editor",
