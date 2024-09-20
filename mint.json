@@ -18,11 +18,7 @@
   "topbarLinks": [],
   "tabs": [],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://monopad.mintlify.app"
-    },
+
     {
       "name": "Blog",
       "icon": "newspaper",
