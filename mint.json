@@ -32,7 +32,7 @@
     },
     {
       "group": "Editor",
-      "pages": ["editor/blocks", "essentials/image", "essentials/settings"]
+      "pages": ["editor/blocks", "editor/text", "editor/image", "editor/video", "editor/route"]
     }
   ]
 }
