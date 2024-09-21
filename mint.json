@@ -18,11 +18,7 @@
   "topbarLinks": [],
   "tabs": [],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://monopad.mintlify.app"
-    },
+
     {
       "name": "Blog",
       "icon": "newspaper",
@@ -32,11 +28,11 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["concept", "export", "import"]
+      "pages": ["concept", "create", "export", "import"]
     },
     {
       "group": "Editor",
-      "pages": ["essentials/video", "essentials/images", "essentials/settings"]
+      "pages": ["editor/blocks", "editor/text", "editor/image", "editor/video", "editor/route"]
     }
   ]
 }
