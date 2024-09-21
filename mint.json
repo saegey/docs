@@ -28,7 +28,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["concept", "export", "import"]
+      "pages": ["concept", "create", "export", "import"]
     },
     {
       "group": "Editor",
